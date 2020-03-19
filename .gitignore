@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ContactList/.vs/ContactList
+/ContactList/bin
+/ContactList/obj/Debug
+/ContactList/ContactList.csproj.user
